@@ -1,4 +1,4 @@
-# CaptainCool AI 🏏⚡
+# CaptainCool AI 🏏⚡ - (Manual + Beta Mode)
 
 CaptainCool AI is a multi-agent IPL tactical strategist built using the Google Gemini ecosystem.
 
