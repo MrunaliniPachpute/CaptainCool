@@ -6,7 +6,7 @@ Instead of giving one generic chatbot response, the platform simulates a real IP
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🧠 Multi-agent AI orchestration
 - 📊 Tactical debate + statistical validation
