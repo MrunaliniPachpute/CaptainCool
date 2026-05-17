@@ -62,17 +62,16 @@ Transforms tactical reasoning into exciting IPL-style commentary.
 
 ## Manual Tactical Mode
 
-![Manual Mode](<img width="1366" height="738" alt="Screenshot (1874)" src="https://github.com/user-attachments/assets/fa83e497-aad6-40e7-811c-c2930b3bbe04" />)
-
+![Manual Mode]
+<img width="1366" height="738" alt="Screenshot (1874)" src="https://github.com/user-attachments/assets/fa83e497-aad6-40e7-811c-c2930b3bbe04" />
 
 
 ---
 
 ## Live Match Beta Mode
 
-![Live Beta](<img width="1366" height="683" alt="OUTPUT_BETA" src="https://github.com/user-attachments/assets/b58c5d8f-dc75-44e5-bf70-1876455ce219" />)
-
-
+![Live Beta]
+<img width="1366" height="683" alt="OUTPUT_BETA" src="https://github.com/user-attachments/assets/b58c5d8f-dc75-44e5-bf70-1876455ce219" />
 
 ---
 
